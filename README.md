@@ -81,9 +81,9 @@ Librerías: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, MySQL Connector
 
 Instalación
 
-Clona el repositorio y ejecuta:
+Clona el repositorio 
 
-pip install -r requirements.txt
+git clone https://github.com/jacquelineyusty/analisis_datos_A-B
 
 Ejecución del Proceso ETL
 
@@ -93,10 +93,8 @@ python etl.py
 
 📂 Estructura del Repositorio
 
-/
-├── data/               # Archivos de datos 
-├── etl.py              # Limpieza y transformación y Carga en base de datos SQL                
-├── README.md           # Documentación
+<img src="https://github.com/jacquelineyusty/recursos/blob/main/estructura.PNG" width="250" />
+
 
 🎬 Autor
 
