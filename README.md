@@ -108,3 +108,5 @@ python etl.py
 🎬 Autor
 
 Jacqueline Yusty Espinosa - www.linkedin.com/in/jacquelineyusti
+
+Nota: La creación de ETL esta basada en el proyecto Keeptalent realizado en conjunto con Ana Boyero - Maria Ibañez.
