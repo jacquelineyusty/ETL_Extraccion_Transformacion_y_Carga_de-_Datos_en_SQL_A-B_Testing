@@ -14,6 +14,7 @@ Bases de Datos: MySQL
 
 Conectividad: MySQL Connector
 
+
 🔄 Flujo del Proceso ETL
 
 1. Extracción (Extract)
@@ -38,6 +39,7 @@ Codificación de variables categóricas.
 
 Visualización y análisis exploratorio con Seaborn y Matplotlib.
 
+
 3. Carga en Base de Datos (Load)
 
 Los datos procesados se almacenan en una base de datos MySQL, asegurando:
@@ -48,6 +50,7 @@ Creación de índices y claves foráneas para mejorar el rendimiento.
 
 Carga incremental o completa usando scripts de automatización.
 
+
 📊 Visualización de Datos
 
 Para validar la calidad de los datos y el impacto de las transformaciones, se generan:
@@ -57,6 +60,7 @@ Gráficos de distribución de datos.
 Matrices de correlación entre variables.
 
 Reportes de calidad de datos.
+
 
 🚀 Futuras Mejoras
 
@@ -69,6 +73,8 @@ Reportes de calidad de datos.
 ✨ Implementación de un sistema de monitoreo de calidad de datos.
 
 
+
+
 🔗 Instalación y Uso
 
 Requisitos
@@ -79,17 +85,20 @@ MySQL
 
 Librerías: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, MySQL Connector
 
+
 Instalación
 
 Clona el repositorio 
 
 git clone https://github.com/jacquelineyusty/analisis_datos_A-B
 
+
 Ejecución del Proceso ETL
 
 Ejecuta el script principal para iniciar el proceso ETL:
 
 python etl.py
+
 
 📂 Estructura del Repositorio
 
