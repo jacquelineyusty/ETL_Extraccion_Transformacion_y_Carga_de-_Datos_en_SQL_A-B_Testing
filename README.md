@@ -93,7 +93,7 @@ python etl.py
 
 📂 Estructura del Repositorio
 
-<img src="https://github.com/jacquelineyusty/recursos/blob/main/estructura.PNG" width="400" />
+<img src="https://github.com/jacquelineyusty/recursos/blob/main/estructura1.PNG" width="400" />
 
 
 🎬 Autor
